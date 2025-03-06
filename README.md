@@ -1,0 +1,1 @@
+This file contains the final written report for the STOR608 Contemporary Topic Sprints module at Lancaster University. The files RL.py includes the code used to obtain the results, and the Report.pdf file contains the final report. The csv data output retrieved from the RL.py file was then ran through R to format the data and then output the graphs using ggplot.
